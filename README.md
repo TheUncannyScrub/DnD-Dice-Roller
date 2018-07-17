@@ -6,6 +6,8 @@
 ###
 
 Download the ExE: [Click here](https://github.com/TheUncannyScrub/DnD-Dice-Roller/releases/tag/v1.0.0 "Go to Releases")
+
+
 To Download the project go to the top right and click "Clone or download"
 
 There is not much to this, just didnt fancy buying my own dice for Dungeons and Dragons. Wrote a c# GUI Script to handle it

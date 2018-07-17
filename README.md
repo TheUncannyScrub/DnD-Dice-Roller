@@ -13,3 +13,6 @@ To Download the project go to the top right and click "Clone or download"
 There is not much to this, just didnt fancy buying my own dice for Dungeons and Dragons. Wrote a c# GUI Script to handle it
 Figured other people might want to use it as well, it isnt aesthetic or anything, just a simple Gui with 2 inputs for sides and rolls and 1 output
 to display what they landed on. Go to the releases section or just click the link above to go directly to it.
+
+Windows defender flags it because its an Exe from online, dont know why but you can check the source code above + im not smart enough (Or stupid enough)
+to go out and publish something in my name with a virus on it.
